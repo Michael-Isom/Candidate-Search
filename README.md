@@ -1,4 +1,4 @@
-# Candidate-Search
+
 # Candidate-Search
 The Candidate Search application allows users to explore a list of GitHub users and save potential candidates for further review.
 Table of Contents
